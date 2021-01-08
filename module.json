@@ -7,7 +7,7 @@
     "packs": [
     {
       "label": "Affinity Details",
-      "entity": "Journal",
+      "entity": "JournalEntry",
       "name": "affinity-details",
       "path": "./packs/affinity-details.db",
       "system": "pf2e",
