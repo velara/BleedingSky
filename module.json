@@ -45,6 +45,6 @@
     "compatibleCoreVersion": "0.7.9",
     "minimumCoreVersion": "0.7.5",
     "manifest": "https://raw.githubusercontent.com/velara/BleedingSky/master/module.json",
-    "download": "",
+    "download": "https://github.com/velara/BleedingSky/archive/v1.0.zip",
     "url": "https://gitlab.com/Velara/Bleedingsky/"
 }
