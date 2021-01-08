@@ -1,0 +1,50 @@
+{
+    "name": "pf2e-bleedingsky-data",
+    "title": "PF2E Land of the Bleeding Sky Data",
+    "description": "Extra compendia containing content for the Land of the Bleeding Sky campaign setting. https://scribe.pf2.tools/v/9zlCw6jw ",
+    "version": "1.0",
+    "author": "Velara",
+    "packs": [
+    {
+      "label": "Affinity Details",
+      "entity": "Journal",
+      "name": "affinity-details",
+      "path": "./packs/affinity-details.db",
+      "system": "pf2e",
+      "package": "pf2e-bleedingsky-data"
+    },
+        {
+      "label": "Affinity Feats",
+      "entity": "Item",
+      "name": "affinity-feats",
+      "path": "./packs/affinity-feats.db",
+      "system": "pf2e",
+      "package": "pf2e-bleedingsky-data"
+    },
+    {
+      "label": "Affinity Specialities",
+      "entity": "Item",
+      "name": "affinity-specialities",
+      "path": "./packs/affinity-specialities.db",
+      "system": "pf2e",
+      "package": "pf2e-bleedingsky-data"
+    },
+    {
+      "label": "Ethnicities",
+      "entity": "Item",
+      "name": "ethnicities",
+      "path": "./packs/ethnicities.db",
+      "system": "pf2e",
+      "package": "pf2e-bleedingsky-data"
+    }
+  ],
+    "esmodules": [],
+    "styles": [],
+    "socket": false,
+    "systems": ["pf2e"],
+    "compatibleCoreVersion": "0.7.9",
+    "minimumCoreVersion": "0.7.5",
+    "manifest": "",
+    "download": "",
+    "url": "https://gitlab.com/Velara/Bleedingsky/"
+}
