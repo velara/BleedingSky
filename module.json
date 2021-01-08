@@ -2,7 +2,7 @@
     "name": "pf2e-bleedingsky-data",
     "title": "PF2E Land of the Bleeding Sky Data",
     "description": "Extra compendia containing content for the Land of the Bleeding Sky campaign setting. https://scribe.pf2.tools/v/9zlCw6jw ",
-    "version": "1.1",
+    "version": "1.2",
     "author": "Velara",
     "packs": [
     {
@@ -45,6 +45,6 @@
     "compatibleCoreVersion": "0.7.9",
     "minimumCoreVersion": "0.7.5",
     "manifest": "https://raw.githubusercontent.com/velara/BleedingSky/master/module.json",
-    "download": "https://github.com/velara/BleedingSky/archive/v1.1.zip",
+    "download": "https://github.com/velara/BleedingSky/archive/v1.2.zip",
     "url": "https://gitlab.com/Velara/Bleedingsky/"
 }
