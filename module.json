@@ -44,7 +44,7 @@
     "systems": ["pf2e"],
     "compatibleCoreVersion": "0.7.9",
     "minimumCoreVersion": "0.7.5",
-    "manifest": "",
+    "manifest": "https://raw.githubusercontent.com/velara/BleedingSky/master/module.json",
     "download": "",
     "url": "https://gitlab.com/Velara/Bleedingsky/"
 }
